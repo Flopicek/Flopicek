@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flopicek
 - 👀 I’m interested in solidity, JS and EVM
 - 🌱 I’m currently learning solidity, JS
-- 📫 How to reach me here.
+- 📫 You can reach me here.
 
 <!---
 Flopicek/Flopicek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
