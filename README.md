@@ -14,7 +14,7 @@
 
 #
 
-## 👻 About megit
+## 👻 About me
 
 🎯 **2023**: I’m currently learning **web3 security & smart contract hacking**
 
