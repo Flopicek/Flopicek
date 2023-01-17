@@ -18,7 +18,7 @@
 
 🎯 **2023**: I’m currently learning **web3 security & smart contract hacking**
 
-🌱 I’m **Web 3** `Enthusiast` `Analyst` `Consultant` `Builder` `NFTs` `Investor` `Speculator`
+🌱 I’m **Web 3** `Enthusiast` `Analyst` `Researcher` `Consultant` `Builder` `NFTs` `Investor` 
 
 🔭 I’m interested in:
 
