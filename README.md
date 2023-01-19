@@ -64,5 +64,3 @@
   - Here i learned how ETH Proof of Stake works and much more.
 - ✅ CryptoZombies
   - CryptoZombies is an interactive school that teaches you all things technical about blockchains.
-
-**Finished:**
