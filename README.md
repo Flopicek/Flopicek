@@ -16,7 +16,7 @@
 
 ## 👻 About me
 
-🌱 I’m **Web 3** `Enthusiast` `Analyst` `Researcher` `Consultant` `Builder` `NFTs` `Investor` 
+🌱 I’m **Web 3** `Enthusiast` `Analyst` `Researcher` `Consultant` `Builder` `NFTs` `Investor`
 
 🔭 I’m interested in:
 
@@ -44,15 +44,6 @@
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 ---
-
-## 📌 Challenges
-
-**Working on:**
-
-- 🎯 Secureum bootcamp
-- 🎯 Ethernaut CTF
-- 🎯 Damn Vulnerable DeFi
-- 🎯 Alchemy University
 
 #
 
