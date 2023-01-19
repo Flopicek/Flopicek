@@ -16,7 +16,7 @@
 
 ## 👻 About me
 
-🌱 I’m **Web 3** `Enthusiast` `Analyst` `Researcher` `Consultant` `Builder` `NFTs` `Investor` 
+🌱 I’m **Web 3** `Enthusiast` `Analyst` `Researcher` `Consultant` `Builder` `NFTs` `Investor`
 
 🔭 I’m interested in:
 
@@ -64,3 +64,5 @@
   - Here i learned how ETH Proof of Stake works and much more.
 - ✅ CryptoZombies
   - CryptoZombies is an interactive school that teaches you all things technical about blockchains.
+
+**Finished:**
